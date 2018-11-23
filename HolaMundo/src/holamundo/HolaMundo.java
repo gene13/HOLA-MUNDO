@@ -5,6 +5,8 @@
  */
 package holamundo;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author AMATER@STU
@@ -16,7 +18,7 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        j
+        JOptionPane.showMessageDialog(null, "HOLA MUNDO");
     }
     
 }

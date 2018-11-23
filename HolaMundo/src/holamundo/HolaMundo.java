@@ -19,6 +19,10 @@ public class HolaMundo {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "HOLA MUNDO");
+        JOptionPane.showMessageDialog(null, "1");//EVELYN ALBARRACIN
+        JOptionPane.showMessageDialog(null, "2");//MAGALY GUANOLUISA
+        JOptionPane.showMessageDialog(null, "3");//GENESIS ROBAYO
+        JOptionPane.showMessageDialog(null, "MENSAJE DE PRUEBA");//FRANKLIN QUISHPE
     }
     
 }

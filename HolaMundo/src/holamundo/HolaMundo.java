@@ -23,6 +23,17 @@ public class HolaMundo {
         JOptionPane.showMessageDialog(null, "2");//MAGALY GUANOLUISA
         JOptionPane.showMessageDialog(null, "3");//GENESIS ROBAYO
         JOptionPane.showMessageDialog(null, "MENSAJE DE PRUEBA");//FRANKLIN QUISHPE
+        Scanner sc = new Scanner(System.in);
+        double op1, op2;
+        System.out.print("Introduzca el primer operando: ");
+        op1 = sc.nextDouble();
+        System.out.print("Introduzca el segundo operando: ");
+        op2 = sc.nextDouble();
+        System.out.println("LA SUMA ES: "+op1 + op2);
+        System.out.println("LA RESTA ES: "+(op1 - op2));
+        System.out.println("LA MULTIPLICACION ES: "+op1 * op2);
+        System.out.println("LA DIVISION ES: "+op1 / op2);
+        
     }
     
 }

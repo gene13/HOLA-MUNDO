@@ -28,7 +28,7 @@ public class HolaMundo {
         System.out.println("LA SUMA ES: "+op1 + op2);
         System.out.println("LA RESTA ES: "+(op1 - op2));
         System.out.println("LA MULTIPLICACION ES: "+op1 * op2);
-        System.out.println("LA DIVISION ES: "+op1 / op2);
+        
         
     }
     
